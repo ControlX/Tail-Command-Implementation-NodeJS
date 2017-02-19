@@ -1,0 +1,4 @@
+Hello this is my log file.
+In this file I'll insert some dummy data to show how tail works.
+Okay I'm modifying the file now. dsfsd
+asdfsad  asdfsdasdfsd
